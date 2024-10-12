@@ -1,5 +1,5 @@
 # careForceOne
-# CareForceOne - Nurses Notes and Beyond
+# CareForceOne
 
 CareForceOne is a comprehensive healthcare staffing and management SaaS solution, built to streamline healthcare workflows, documentation, and patient care. This solution provides features for nurses, healthcare providers, and clinics, including AI-assisted documentation, applicant tracking, smart scheduling, and more.
 
